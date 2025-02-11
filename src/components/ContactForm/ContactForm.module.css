@@ -3,7 +3,7 @@
     flex-direction: column;
     gap: 24px;
     padding: 20px;
-    background-color: #001a00;
+    background-color: #e9c2e8;
     border: 1px solid rgb(20, 200, 197);
     border-radius: 10px;
     max-width: 400px;
@@ -21,8 +21,8 @@
     padding: 10px;
     border: 1px solid rgb(200, 116, 19);
     border-radius: 5px;
-    background-color: #001a00;
-    color: rgb(20, 200, 197)n;
+    background-color: #eda8ed;
+    color: rgb(235, 10, 160)n;
     font-size: 14px;
 }
 
