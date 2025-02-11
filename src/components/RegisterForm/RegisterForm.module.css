@@ -1,0 +1,62 @@
+.form {
+    width: 320px;
+}
+
+.label {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 16px;
+}
+
+.formContact {
+    margin: auto;
+    border: 2px solid #e5810f;
+    border-radius: 8px;
+    width: 320px;
+    padding: 15px;
+    margin-bottom: 40px;
+}
+
+.formLabel {
+    text-align: start;
+    display: block;
+    margin-bottom: 12px;
+}
+
+.formInputWrapper {
+    position: relative;
+}
+
+.formInput {
+    width: 94.2%;
+    padding: 16px;
+    border: 1px solid rgb(16, 172, 214);
+    border-radius: 5px;
+    background-color: #ebd6e6;
+    color: rgb(16, 172, 214);
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.formErrorMessage {
+    position: absolute;
+    top: 38px;
+    left: 6px;
+    font-size: 14px;
+    color: tomato;
+    font-weight: bold;
+    padding: 4px 8px;
+    border-radius: 4px;
+}
+
+.formButton {
+    background-color: rgb(16, 172, 214);
+    color: #001a00;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 6px;
+
+}

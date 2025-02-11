@@ -1,0 +1,28 @@
+.list {
+    list-style-type: none;
+    margin: 12px auto;
+    padding: 0;
+    max-width: 600px;
+
+}
+
+.list>li {
+    padding: 16px;
+    margin: 16px;
+    border: 1px solid rgb(195, 102, 9);
+    border-radius: 5px;
+    background-color: #ebd6e6;
+    color: rgb(195, 102, 9);
+}
+
+.list>li:hover {
+    background-color: #0bcbed;
+    color: #0122b4;
+}
+
+.empty {
+    text-align: center;
+    color: rgb(18, 143, 188);
+    font-style: italic;
+    padding: 20px;
+}

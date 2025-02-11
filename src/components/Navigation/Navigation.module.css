@@ -1,0 +1,25 @@
+.homeLink {
+    display: inline-block;
+    text-decoration: none;
+    padding: 12px;
+    font-weight: 700;
+    color: #11dbd4;
+    font-size: 20px;
+}
+
+.homeLink:hover {
+    color: #dc880a;
+}
+
+
+
+.buildLinkClass {
+    font-weight: 700;
+    color: #e09ed6;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.buildLinkClass:hover {
+    color: #7b4ec8;
+}
